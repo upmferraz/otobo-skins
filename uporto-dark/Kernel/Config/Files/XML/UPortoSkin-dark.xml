@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otobo_config version="2.0" init="Framework">
+	<Setting Name="Loader::Agent::Skin###100-uporto-dark" Required="0" Valid="1">
+		<Description Translatable="1">UPorto Skin Dark.</Description>
+		<Navigation>Frontend::Base::Loader</Navigation>
+		<Value>
+			<Hash>
+				<Item Key="InternalName">uporto-dark</Item>
+				<Item Key="VisibleName" Translatable="1">UPorto Dark</Item>
+				<Item Key="Description" Translatable="0">"UPorto Dark Skin"</Item>
+				<Item Key="HomePage">www.up.pt</Item>
+			</Hash>
+		</Value>
+	</Setting>
+
+</otobo_config>
+

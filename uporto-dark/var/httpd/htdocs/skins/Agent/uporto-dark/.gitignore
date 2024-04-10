@@ -1,0 +1,8 @@
+# ignore css cache
+/css-cache
+
+# ignore sftp config
+/.ftpconfig
+
+# ignore custom logo
+/img/mediabrands_helpdesk.png
